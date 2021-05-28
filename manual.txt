@@ -6,3 +6,5 @@ http://www.icpdas.com/root/product/solutions/pc_based_io_board/pci/piso-p32s32wu
 DLL in Python
 https://habr.com/ru/post/499152/
 
+UniDAQ
+http://www.icpdas.com/root/product/solutions/software/development_tools/unidaq.html
