@@ -1,0 +1,8 @@
+PISO
+
+http://www.icpdas.com/root/product/solutions/pc_based_io_board/pci/pci-1202.html
+http://www.icpdas.com/root/product/solutions/pc_based_io_board/pci/piso-p32s32wu.html
+
+DLL in Python
+https://habr.com/ru/post/499152/
+
